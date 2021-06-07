@@ -1,0 +1,26 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node JS api test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "UDA",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taquocy/herokuAgriUDAEthBLC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taquocy/herokuAgriUDAEthBLC/issues"
+  },
+  "homepage": "https://github.com/taquocy/herokuAgriUDAEthBLC#readme"
+}
